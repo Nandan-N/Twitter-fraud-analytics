@@ -1,30 +1,17 @@
 # Fake account detection in Twitter
 
+# Hallothon project
+Done on 11th and 12th November where we worked for 24 hours to win top 10 in the Hackathon. 
+> My teammates included Dhruv Nilkund, Digvijay Sunil and Puneet
+
 ## Features
 - Uses machine learning algorithms to classify user accounts into real or fake.
 - Classifiers implemented are:
-	- Naive Bayes
+	- Naive Bayes 
 	- SVC
 	- K-Nearest neighbour
 - Calcualtes accuracy and error rate of classifiers.
 - Displays comparison results of each classifier using bar graph.
-
-## A glimpse of running the model
-**Output Window**
-
-![Images](/images/1.PNG)
-
-**Custom User Account**
-
-![Images](/images/3.PNG)
-
-**Sample Classifier accuracy**
-
-![Images](/images/2.png)
-
-**Classifier comparison**
-
-![Images](/images/4.png)
 
 
 ## How to run?
